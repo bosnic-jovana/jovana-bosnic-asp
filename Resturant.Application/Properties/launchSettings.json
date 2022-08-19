@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Resturant.Application": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}

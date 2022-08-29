@@ -1,6 +1,6 @@
 ASP Project - Resturant API
 
--Code first pristup kreiranja baze podataka - InitialData kontroler uključuje početne podatke
+-Code first pristup kreiranja baze podataka - InitialData kontroler uključuje početne podatke <br/>
 -Autorizacija upotrebom Jwt-a
 -Use case-ovi su granulirani za svaku komandu i upit
 -Svaki endpoint vraća statusne kodove
